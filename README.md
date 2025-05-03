@@ -1,7 +1,8 @@
-```markdown
+---
+
 # 🍎 datasets_fruit_recognise – Fruit Dataset Project
 
-A curated image dataset of various fruits to train and evaluate machine learning models for fruit recognition tasks.  
+A curated image dataset of various fruits to train and evaluate machine learning models for fruit recognition tasks.
 Includes a ready-to-use `.tflite` model for deployment in mobile or edge applications.
 
 ---
@@ -9,14 +10,16 @@ Includes a ready-to-use `.tflite` model for deployment in mobile or edge applica
 ## 🌟 Features
 
 ### 🖼️ Dataset
-- Categorized folders of fruit images  
-- Structured for easy training and model integration  
-- Supports 10 fruit classes with consistent labeling
+
+* Categorized folders of fruit images
+* Structured for easy training and model integration
+* Supports 10 fruit classes with consistent labeling
 
 ### 🤖 Pre-trained Model
-- Format: TensorFlow Lite (`.tflite`)  
-- Lightweight and optimized for mobile apps  
-- Trained on the included dataset
+
+* Format: TensorFlow Lite (`.tflite`)
+* Lightweight and optimized for mobile apps
+* Trained on the included dataset
 
 ---
 
@@ -25,14 +28,23 @@ Includes a ready-to-use `.tflite` model for deployment in mobile or edge applica
 ```
 
 0 Apple
+
 1 Avocado
+
 2 Banana
+
 3 Cherry
+
 4 Kiwi
+
 5 Mango
+
 6 Orange
+
 7 Pinenapple
+
 8 Stawberries
+
 9 Watermelon
 
 ````
