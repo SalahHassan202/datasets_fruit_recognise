@@ -85,4 +85,4 @@ Suggestions, improvements, and new fruit classes are welcome via **Issues** or *
 
 **Salah Hassan** – Student & Developer 🚀
 
-```
+---
